@@ -1,0 +1,6 @@
+{
+  "name": "Lunar South Pole Landing Planner",
+  "description": "Mission-control dashboard for evaluating lunar south pole landings using NASA LOLA topography, solar illumination ray-tracing, Earth direct line-of-sight geometry, power budgets, and multi-attribute safety scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
